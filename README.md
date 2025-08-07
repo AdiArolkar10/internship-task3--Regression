@@ -1,3 +1,5 @@
+📌 Note: This task is part of a structured internship to reinforce basic ML skills. It’s not meant to reflect my current skill level or portfolio quality.
+
 # 📈 Linear & Multiple Regression – Sales Prediction
 
 This project demonstrates both **Simple Linear Regression** and **Multiple Linear Regression** using the [Advertising dataset](https://www.kaggle.com/datasets/ashydv/advertising-dataset) to predict product sales based on ad spending.
